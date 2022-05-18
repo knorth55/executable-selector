@@ -1,3 +1,9 @@
+executable-selector (0.0.3-focal) stable; urgency=medium
+
+  * Update to focal
+
+ -- Shingo Kitagawa <shingogo@hotmail.co.jp>  Wed, 18 May 2022 14:07:19 +0900
+
 executable-selector (0.0.2-precise) stable; urgency=low
 
   * Incrementing to SVN: r237
