@@ -1,0 +1,5 @@
+debian/.debhelper/*
+debian/executable-selector.debhelper.log
+debian/executable-selector.substvars
+debian/executable-selector/*
+debian/files
